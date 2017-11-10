@@ -1,0 +1,143 @@
+/* .themify_builder_512_row.module_row_0 Style */
+.themify_builder_512_row.module_row_0.module_row {
+	font-family: Josefin Sans;
+	font-size: 48;
+	text-align: center;
+	
+	color: rgba(24,67,46, 1.00);
+	padding-top : 18%;
+	padding-bottom : 14%
+}
+.themify_builder_512_row.module_row_0.module_row h1 {
+	
+	color: rgba(24,67,46, 1.00);
+	font-family: Josefin Sans
+}
+.themify_builder_512_row.module_row_0.module_row h2 {
+	
+	color: rgba(24,67,46, 1.00);
+	font-family: Josefin Sans
+}
+.themify_builder_512_row.module_row_0.module_row h3:not(.module-title) {
+	
+	color: rgba(24,67,46, 1.00);
+	font-family: Josefin Sans
+}
+.themify_builder_512_row.module_row_0.module_row h4 {
+	
+	color: rgba(24,67,46, 1.00);
+	font-family: Josefin Sans
+}
+.themify_builder_512_row.module_row_0.module_row h5 {
+	
+	color: rgba(24,67,46, 1.00);
+	font-family: Josefin Sans
+}
+.themify_builder_512_row.module_row_0.module_row h6 {
+	
+	color: rgba(24,67,46, 1.00);
+	font-family: Josefin Sans
+}
+
+/* .module_row_0 .module_column_0.tb_512_column Style */
+.module_row_0 .module_column_0.tb_512_column.module_column {
+	background-image: url(http://localhost:8888/cbdm/wp-content/uploads/2017/09/cropped-636873.jpg)
+}
+
+/* .sub_column_post_512.sub_column_0-0-0-1 Style */
+.sub_column_post_512.sub_column_0-0-0-1.sub_column {
+	font-size: 1.2em;
+	line-height: 1.5em;
+	
+	color: rgba(0,0,0, 1.00)
+}
+.sub_column_post_512.sub_column_0-0-0-1 a {
+	
+	color: rgba(242,145,0, 1)
+}
+.sub_column_post_512.sub_column_0-0-0-1.sub_column h1 {
+	
+	color: rgba(0,0,0, 1.00)
+}
+.sub_column_post_512.sub_column_0-0-0-1.sub_column h2 {
+	
+	color: rgba(0,0,0, 1.00)
+}
+.sub_column_post_512.sub_column_0-0-0-1.sub_column h3:not(.module-title) {
+	
+	color: rgba(0,0,0, 1.00)
+}
+.sub_column_post_512.sub_column_0-0-0-1.sub_column h4 {
+	
+	color: rgba(0,0,0, 1.00)
+}
+.sub_column_post_512.sub_column_0-0-0-1.sub_column h5 {
+	
+	color: rgba(0,0,0, 1.00)
+}
+.sub_column_post_512.sub_column_0-0-0-1.sub_column h6 {
+	
+	color: rgba(0,0,0, 1.00)
+}
+
+.themify_builder .text-512-1-1-0.module-text { text-align: left;  } 
+/* .themify_builder_512_row.module_row_2 Style */
+.themify_builder_512_row.module_row_2.module_row {
+	text-align: center
+}
+
+/* .themify_builder_512_row.module_row_3 Style */
+.themify_builder_512_row.module_row_3.module_row {
+	padding-bottom : 50px
+}
+
+.themify_builder .buttons-512-3-1-1 div.module-buttons { text-align: right;  } 
+/* .themify_builder_512_row.module_row_4 Style */
+.themify_builder_512_row.module_row_4.module_row {
+	background-image: url(https://themify.me/demo/themes/builder-layouts/files/2016/08/origami_colours_by_nova_g-d5kqovp-1024x555-1024x555.jpg);
+	
+	color: rgba(255,255,255, 1.00);
+	padding-top : 8%
+}
+.themify_builder_512_row.module_row_4.module_row h1 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.themify_builder_512_row.module_row_4.module_row h2 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.themify_builder_512_row.module_row_4.module_row h3:not(.module-title) {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.themify_builder_512_row.module_row_4.module_row h4 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.themify_builder_512_row.module_row_4.module_row h5 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.themify_builder_512_row.module_row_4.module_row h6 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.themify_builder_512_row.module_row_4.module_row>.builder_row_cover {
+	background:rgba(212,142,142, 0.63)
+}
+.themify_builder_512_row.module_row_4.module_row> div > .builder_row_cover {
+	background:rgba(212,142,142, 0.63)
+}
+
+.themify_builder .text-512-4-1-0.module-text { text-align: center;  } 
+/* .themify_builder_512_row.module_row_5 Style */
+.themify_builder_512_row.module_row_5.module_row {
+	text-align: center;
+	padding-top : 5%;
+	padding-bottom : 5%
+}
+
+.themify_builder .text-512-5-0-0.module-text { margin-bottom: 50px;  } 
+.themify_builder .buttons-512-sub_row_5-0-1-0-1.module.module-buttons { margin-bottom: 40px;  } 
+.themify_builder .buttons-512-sub_row_5-0-1-1-1.module.module-buttons { margin-bottom: 40px;  } 

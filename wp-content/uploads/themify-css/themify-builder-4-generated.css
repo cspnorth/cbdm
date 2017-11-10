@@ -1,0 +1,400 @@
+/* .themify_builder_4_row.module_row_0 Style */
+.themify_builder_4_row.module_row_0.module_row {
+	background-image: url(http://localhost:8888/cbdm/wp-content/uploads/2017/09/windingriver-1024x683.jpg);
+	font-family: Josefin Sans;
+	text-align: center;
+	
+	color: rgba(255,255,255, 1.00);
+	padding-top : 18%;
+	padding-bottom : 13%
+}
+.themify_builder_4_row.module_row_0 a {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.themify_builder_4_row.module_row_0.module_row h1 {
+	
+	color: rgba(255,255,255, 1.00);
+	font-family: Josefin Sans
+}
+.themify_builder_4_row.module_row_0.module_row h2 {
+	
+	color: rgba(255,255,255, 1.00);
+	font-family: Josefin Sans
+}
+.themify_builder_4_row.module_row_0.module_row h3:not(.module-title) {
+	
+	color: rgba(255,255,255, 1.00);
+	font-family: Josefin Sans
+}
+.themify_builder_4_row.module_row_0.module_row h4 {
+	
+	color: rgba(255,255,255, 1.00);
+	font-family: Josefin Sans
+}
+.themify_builder_4_row.module_row_0.module_row h5 {
+	
+	color: rgba(255,255,255, 1.00);
+	font-family: Josefin Sans
+}
+.themify_builder_4_row.module_row_0.module_row h6 {
+	
+	color: rgba(255,255,255, 1.00);
+	font-family: Josefin Sans
+}
+.themify_builder_4_row.module_row_0.module_row>.builder_row_cover {
+	background:
+}
+.themify_builder_4_row.module_row_0.module_row> div > .builder_row_cover {
+	background:
+}
+
+/* .module_row_0 .module_column_0.tb_4_column Style */
+.module_row_0 .module_column_0.tb_4_column.module_column {
+	padding-right : 5%;
+	padding-left : 5%
+}
+
+.themify_builder .text-4-0-0-0.module-text { font-size: 1.3em; line-height: 1.5em; margin-bottom: 3%;  } 
+@media screen and (max-width: 680px) {.themify_builder .text-4-0-0-0.module-text { font-size: 1em;  } 
+}
+/* .themify_builder_4_row.module_row_1 Style */
+.themify_builder_4_row.module_row_1.module_row {
+	padding-top : 8%;
+	padding-bottom : 8%
+}
+
+/* .module_row_1 .module_column_0 .sub_row_1-0-0 Style */
+.module_row_1 .module_column_0 .sub_row_1-0-0.module_subrow {
+	margin-bottom : 40px
+}
+
+@media screen and (max-width: 680px) {.themify_builder .text-4-sub_row_1-0-0-0-0.module-text { text-align: center;  } 
+}
+.themify_builder .feature-4-sub_row_1-0-0-1-0.module-feature { margin-bottom: 30px;  } 
+.themify_builder .feature-4-sub_row_1-0-0-1-1.module-feature { margin-bottom: 30px;  } 
+.themify_builder .feature-4-sub_row_1-0-0-2-0.module-feature { margin-bottom: 30px;  } 
+.themify_builder .feature-4-sub_row_1-0-0-2-1.module-feature { margin-bottom: 30px;  } 
+.themify_builder .feature-4-sub_row_1-0-0-3-0.module-feature { margin-bottom: 30px;  } 
+.themify_builder .feature-4-sub_row_1-0-0-3-1.module-feature { margin-bottom: 30px;  } 
+@media screen and (max-width: 680px) {.themify_builder .text-4-sub_row_1-0-1-0-0.module-text { text-align: center;  } 
+}
+.themify_builder .feature-4-sub_row_1-0-1-1-0.module-feature { margin-bottom: 30px;  } 
+.themify_builder .feature-4-sub_row_1-0-1-1-1.module-feature { margin-bottom: 30px;  } 
+.themify_builder .feature-4-sub_row_1-0-1-2-0.module-feature { margin-bottom: 30px;  } 
+.themify_builder .feature-4-sub_row_1-0-1-2-1.module-feature { margin-bottom: 30px;  } 
+.themify_builder .feature-4-sub_row_1-0-1-3-0.module-feature { margin-bottom: 30px;  } 
+.themify_builder .feature-4-sub_row_1-0-1-3-1.module-feature { margin-bottom: 30px;  } 
+/* .themify_builder_4_row.module_row_2 Style */
+.themify_builder_4_row.module_row_2.module_row {
+	background-image: url(http://localhost:8888/cbdm/wp-content/uploads/2017/09/scientiest-one.jpg);
+	
+	background-color: rgba(35,66,45, 1);
+	padding-top : 8%;
+	padding-bottom : 4%
+}
+.themify_builder_4_row.module_row_2.module_row>.builder_row_cover {
+	background:linear-gradient( 75deg, rgba(35, 66, 45, 0.49) 0%, rgba(0, 0, 0, 0.34) 98% )
+}
+.themify_builder_4_row.module_row_2.module_row> div > .builder_row_cover {
+	background:linear-gradient( 75deg, rgba(35, 66, 45, 0.49) 0%, rgba(0, 0, 0, 0.34) 98% )
+}
+
+/* .module_row_2 .module_column_0.tb_4_column Style */
+.module_row_2 .module_column_0.tb_4_column.module_column {
+	
+	background-color: rgba(252,201,106, 1.00);
+	font-family: Josefin Sans;
+	font-size: 24;
+	text-align: right;
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_2 .module_column_0.tb_4_column.module_column h1 {
+	
+	color: rgba(255,255,255, 1.00);
+	font-family: Josefin Sans
+}
+.module_row_2 .module_column_0.tb_4_column.module_column h2 {
+	
+	color: rgba(255,255,255, 1.00);
+	font-family: Josefin Sans
+}
+.module_row_2 .module_column_0.tb_4_column.module_column h3:not(.module-title) {
+	
+	color: rgba(255,255,255, 1.00);
+	font-family: Josefin Sans
+}
+.module_row_2 .module_column_0.tb_4_column.module_column h4 {
+	
+	color: rgba(255,255,255, 1.00);
+	font-family: Josefin Sans
+}
+.module_row_2 .module_column_0.tb_4_column.module_column h5 {
+	
+	color: rgba(255,255,255, 1.00);
+	font-family: Josefin Sans
+}
+.module_row_2 .module_column_0.tb_4_column.module_column h6 {
+	
+	color: rgba(255,255,255, 1.00);
+	font-family: Josefin Sans
+}
+
+/* .module_row_2 .module_column_1.tb_4_column Style */
+.module_row_2 .module_column_1.tb_4_column.module_column {
+	text-align: center;
+	
+	color: rgba(251,187,106, 1);
+	text-transform: uppercase
+}
+.module_row_2 .module_column_1.tb_4_column.module_column h1 {
+	
+	color: rgba(251,187,106, 1)
+}
+.module_row_2 .module_column_1.tb_4_column.module_column h2 {
+	
+	color: rgba(251,187,106, 1)
+}
+.module_row_2 .module_column_1.tb_4_column.module_column h3:not(.module-title) {
+	
+	color: rgba(251,187,106, 1)
+}
+.module_row_2 .module_column_1.tb_4_column.module_column h4 {
+	
+	color: rgba(251,187,106, 1)
+}
+.module_row_2 .module_column_1.tb_4_column.module_column h5 {
+	
+	color: rgba(251,187,106, 1)
+}
+.module_row_2 .module_column_1.tb_4_column.module_column h6 {
+	
+	color: rgba(251,187,106, 1)
+}
+
+.themify_builder .text-4-2-1-0.module-text { font-family: Josefin Sans;  } 
+.themify_builder .text-4-2-1-0.module-text h1 { font-family: Josefin Sans;  } 
+.themify_builder .text-4-2-1-0.module-text h2 { font-family: Josefin Sans;  } 
+.themify_builder .text-4-2-1-0.module-text h3:not(.module-title) { font-family: Josefin Sans;  } 
+.themify_builder .text-4-2-1-0.module-text h4 { font-family: Josefin Sans;  } 
+.themify_builder .text-4-2-1-0.module-text h5 { font-family: Josefin Sans;  } 
+.themify_builder .text-4-2-1-0.module-text h6 { font-family: Josefin Sans;  } 
+/* .themify_builder_4_row.module_row_3 Style */
+.themify_builder_4_row.module_row_3.module_row {
+	background-image: url(https://themify.me/demo/themes/predesigned-rows/files/2017/05/visitors-1024x684.jpg);
+	padding-top : 8%;
+	padding-bottom : 8%
+}
+.themify_builder_4_row.module_row_3.module_row>.builder_row_cover {
+	background:linear-gradient( 327deg, rgba(21, 0, 255, 0.59) 0%, rgba(41, 134, 255, 0.65) 34%, rgba(5, 209, 255, 0.44) 98% )
+}
+.themify_builder_4_row.module_row_3.module_row> div > .builder_row_cover {
+	background:linear-gradient( 327deg, rgba(21, 0, 255, 0.59) 0%, rgba(41, 134, 255, 0.65) 34%, rgba(5, 209, 255, 0.44) 98% )
+}
+
+/* .module_row_3 .module_column_0.tb_4_column Style */
+.module_row_3 .module_column_0.tb_4_column.module_column {
+	text-align: center;
+	
+	color: rgba(255,255,255, 1.00);
+	margin-right : 30px;
+	margin-left : 30px
+}
+.module_row_3 .module_column_0.tb_4_column.module_column h1 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_3 .module_column_0.tb_4_column.module_column h2 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_3 .module_column_0.tb_4_column.module_column h3:not(.module-title) {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_3 .module_column_0.tb_4_column.module_column h4 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_3 .module_column_0.tb_4_column.module_column h5 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_3 .module_column_0.tb_4_column.module_column h6 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+
+.themify_builder .text-4-3-0-0.module-text { margin-bottom: 20px;  } 
+.themify_builder .buttons-4-3-0-1.module.module-buttons { margin-bottom: 20px;  } 
+/* .themify_builder_4_row.module_row_4 Style */
+.themify_builder_4_row.module_row_4.module_row {
+	padding-top : 8%
+}
+
+@media screen and (max-width: 680px) {/* .themify_builder_4_row.module_row_4 Style */
+.themify_builder_4_row.module_row_4.module_row {
+	padding-top : 50px
+}
+
+}
+/* .themify_builder_4_row.module_row_5 Style */
+.themify_builder_4_row.module_row_5.module_row {
+	background-image: url(https://themify.me/demo/themes/predesigned-rows/files/2017/05/chicago-split-1-1024x529.jpg);
+	padding-top : 8%;
+	padding-bottom : 4%
+}
+.themify_builder_4_row.module_row_5.module_row>.builder_row_cover {
+	background:linear-gradient( 75deg, rgba(47, 5, 255, 0.49) 0%, rgba(0, 0, 0, 0.34) 98% )
+}
+.themify_builder_4_row.module_row_5.module_row> div > .builder_row_cover {
+	background:linear-gradient( 75deg, rgba(47, 5, 255, 0.49) 0%, rgba(0, 0, 0, 0.34) 98% )
+}
+
+/* .module_row_5 .module_column_0.tb_4_column Style */
+.module_row_5 .module_column_0.tb_4_column.module_column {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_5 .module_column_0.tb_4_column.module_column h1 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_5 .module_column_0.tb_4_column.module_column h2 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_5 .module_column_0.tb_4_column.module_column h3:not(.module-title) {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_5 .module_column_0.tb_4_column.module_column h4 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_5 .module_column_0.tb_4_column.module_column h5 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_5 .module_column_0.tb_4_column.module_column h6 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+
+.themify_builder .text-4-5-0-0.module-text { margin-bottom: 15px;  } 
+.themify_builder .buttons-4-5-0-1.module.module-buttons { margin-bottom: 10px;  } 
+@media screen and (max-width: 680px) {.themify_builder .buttons-4-5-0-1.module.module-buttons { margin-bottom: 40px;  } 
+}
+/* .themify_builder_4_row.module_row_6 Style */
+.themify_builder_4_row.module_row_6.module_row {
+	padding-top : 5%;
+	padding-bottom : 5%
+}
+
+/* .module_row_6 .module_column_0.tb_4_column Style */
+.module_row_6 .module_column_0.tb_4_column.module_column {
+	background-image: url(https://themify.me/demo/themes/predesigned-rows/files/2017/05/platter-1024x683.jpg);
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_6 .module_column_0.tb_4_column.module_column h1 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_6 .module_column_0.tb_4_column.module_column h2 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_6 .module_column_0.tb_4_column.module_column h3:not(.module-title) {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_6 .module_column_0.tb_4_column.module_column h4 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_6 .module_column_0.tb_4_column.module_column h5 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_6 .module_column_0.tb_4_column.module_column h6 {
+	
+	color: rgba(255,255,255, 1.00)
+}
+.module_row_6 .module_column_0.tb_4_column.module_column>.builder_row_cover {
+	background:rgba(0,0,0, 0.75)
+}
+.module_row_6 .module_column_0.tb_4_column.module_column> div > .builder_row_cover {
+	background:rgba(0,0,0, 0.75)
+}
+
+@media screen and (max-width: 680px) {.themify_builder .fancy-heading-4-6-0-0.module-fancy-heading { padding-top: 50px; padding-bottom: 50px;  } 
+}
+/* .module_row_6 .module_column_1.tb_4_column Style */
+.module_row_6 .module_column_1.tb_4_column.module_column {
+	padding-top : 70px;
+	padding-bottom : 70px
+}
+
+.themify_builder .service-menu-4-6-1-0.module-service-menu { margin-right: 50px; margin-bottom: 50px;  } 
+@media screen and (max-width: 680px) {.themify_builder .service-menu-4-6-1-0.module-service-menu { margin-right: 30px; margin-left: 30px;  } 
+}
+.themify_builder .service-menu-4-6-1-1.module-service-menu { margin-right: 50px; margin-bottom: 50px;  } 
+@media screen and (max-width: 680px) {.themify_builder .service-menu-4-6-1-1.module-service-menu { margin-right: 30px; margin-left: 30px;  } 
+}
+.themify_builder .service-menu-4-6-1-2.module-service-menu { margin-right: 50px; margin-bottom: 50px;  } 
+@media screen and (max-width: 680px) {.themify_builder .service-menu-4-6-1-2.module-service-menu { margin-right: 30px; margin-left: 30px;  } 
+}
+.themify_builder .service-menu-4-6-1-3.module-service-menu { margin-right: 50px;  } 
+@media screen and (max-width: 680px) {.themify_builder .service-menu-4-6-1-3.module-service-menu { margin-right: 30px; margin-left: 30px;  } 
+}
+/* .themify_builder_4_row.module_row_7 Style */
+.themify_builder_4_row.module_row_7.module_row {
+	padding-top : 8%;
+	padding-bottom : 8%
+}
+.themify_builder_4_row.module_row_7.module_row>.builder_row_cover {
+	background:
+}
+.themify_builder_4_row.module_row_7.module_row> div > .builder_row_cover {
+	background:
+}
+
+/* .module_row_7 .module_column_0.tb_4_column Style */
+.module_row_7 .module_column_0.tb_4_column.module_column {
+	
+}
+.module_row_7 .module_column_0.tb_4_column.module_column h1 {
+	
+}
+.module_row_7 .module_column_0.tb_4_column.module_column h2 {
+	
+}
+.module_row_7 .module_column_0.tb_4_column.module_column h3:not(.module-title) {
+	
+}
+.module_row_7 .module_column_0.tb_4_column.module_column h4 {
+	
+}
+.module_row_7 .module_column_0.tb_4_column.module_column h5 {
+	
+}
+.module_row_7 .module_column_0.tb_4_column.module_column h6 {
+	
+}
+
+.themify_builder .text-4-7-0-0.module-text { text-align: center; margin-right: 30px; margin-bottom: 45px; margin-left: 30px;  } 
+@media screen and (max-width: 680px) {.themify_builder .text-4-7-0-0.module-text { margin-bottom: 30px;  } 
+}
+/* .module_row_7 .module_column_0 .sub_row_7-0-1 Style */
+.module_row_7 .module_column_0 .sub_row_7-0-1.module_subrow {
+	margin-bottom : 40px
+}
+
+.themify_builder .feature-4-sub_row_7-0-1-0-0.module-feature { margin-bottom: 40px;  } 
+.themify_builder .feature-4-sub_row_7-0-1-0-1.module-feature { margin-bottom: 30px;  } 
+.themify_builder .feature-4-sub_row_7-0-1-1-0.module-feature { margin-bottom: 40px;  } 
+.themify_builder .feature-4-sub_row_7-0-1-1-1.module-feature { margin-bottom: 30px;  } 
+.themify_builder .feature-4-sub_row_7-0-1-2-0.module-feature { margin-bottom: 40px;  } 
+.themify_builder .feature-4-sub_row_7-0-1-2-1.module-feature { margin-bottom: 30px;  } 

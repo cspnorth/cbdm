@@ -1,0 +1,125 @@
+/*  
+Skin Name: Black
+Version: 1.0
+*/
+
+/************************************************************************************
+GENERAL
+*************************************************************************************/
+.post-date,
+.horizontal-menu #mobile-menu,
+#headerwrap {
+	background: -moz-linear-gradient(-45deg, rgba(55, 76, 91, 1) 0%, rgba(0, 0, 0, 1) 100%);
+	background: -webkit-linear-gradient(-45deg, rgba(55, 76, 91, 1) 0%, rgba(0, 0, 0, 1) 100%);
+	background: linear-gradient(135deg, rgba(55, 76, 91, 1) 0%, rgba(0, 0, 0, 1) 100%);
+}
+a,
+.comment-title,
+.comment-reply-title,
+.widgettitle {
+	color: #000;
+}
+a:hover,
+.post-title a:hover,
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li:hover a,
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a,
+.woocommerce div.product .woocommerce-tabs ul.tabs li:hover a,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li:hover a,
+.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a,
+.woocommerce-page div.product .woocommerce-tabs ul.tabs li:hover a,
+.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a {
+	color: #999;
+}
+#main-nav > .current-menu-ancestor > a,
+#main-nav > .current_page_item > a,
+#main-nav > .current-menu-item > a,
+#headerwrap #header a:hover {
+	color: #989898;
+}
+.pagenav,
+.woocommerce #content input.button,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce-page #content input.button,
+.woocommerce-page #respond input#submit,
+.woocommerce-page a.button,
+.woocommerce-page button.button,
+.woocommerce-page input.button,
+.woocommerce #content input.button.alt,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce-page #content input.button.alt,
+.woocommerce-page #respond input#submit.alt,
+.woocommerce-page a.button.alt,
+.woocommerce-page button.button.alt,
+.woocommerce-page input.button.alt,
+.woocommerce #content nav.woocommerce-pagination ul,
+.woocommerce nav.woocommerce-pagination ul,
+.woocommerce-page #content nav.woocommerce-pagination ul,
+.woocommerce-page nav.woocommerce-pagination ul,
+.woocommerce span.onsale,
+.woocommerce-page span.onsale,
+.woocommerce ul.products li.product .onsale,
+.woocommerce-page ul.products li.product .onsale,
+.woocommerce-checkout #payment div.payment_box,
+input[type=reset],
+input[type=submit],
+button {
+	background-color: #000;
+}
+.woocommerce .woocommerce-error,
+.woocommerce .woocommerce-info,
+.woocommerce .woocommerce-message,
+.woocommerce-page .woocommerce-error,
+.woocommerce-page .woocommerce-info,
+.woocommerce-page .woocommerce-message {
+	border-top-color: #000;
+}
+.woocommerce-checkout #payment div.payment_box:before {
+	border-bottom-color: #000;
+}
+
+.woocommerce #content input.button:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce-page #content input.button:hover,
+.woocommerce-page #respond input#submit:hover,
+.woocommerce-page a.button:hover,
+.woocommerce-page button.button:hover,
+.woocommerce-page input.button:hover,
+.woocommerce #content input.button.alt:hover,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce-page #content input.button.alt:hover,
+.woocommerce-page #respond input#submit.alt:hover,
+.woocommerce-page a.button.alt:hover,
+.woocommerce-page button.button.alt:hover,
+.woocommerce-page input.button.alt:hover,
+input[type=reset]:hover,
+input[type=submit]:hover,
+button:hover {
+	background-color: #394a57;
+	color: #fff;
+}
+
+/* 
+FIXED HEADER
+================================================ */
+.load-more-button,
+body:not(.header-leftpane):not(.header-rightpane):not(.horizontal-menu).mobile-menu-visible #headerwrap,
+body:not(.header-leftpane):not(.header-rightpane):not(.horizontal-menu).transparent-header.mobile-menu-visible #headerwrap,
+.transparent-header #headerwrap.fixed-header,
+#headerwrap.fixed-header {
+	background: -moz-linear-gradient(-45deg, rgba(55, 76, 91, .95) 0%, rgba(0, 0, 0, .95) 100%);
+	background: -webkit-linear-gradient(-45deg, rgba(55, 76, 91, .95) 0%, rgba(0, 0, 0, .95) 100%);
+	background: linear-gradient(135deg, rgba(55, 76, 91, .95) 0%, rgba(0, 0, 0, .95) 100%);
+}

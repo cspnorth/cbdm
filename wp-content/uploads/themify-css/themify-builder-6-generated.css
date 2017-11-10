@@ -1,0 +1,12 @@
+/* .themify_builder_6_row.module_row_0 Style */
+.themify_builder_6_row.module_row_0.module_row {
+	background-image: url(http://localhost:8888/cbdm/wp-content/uploads/2017/09/636873-1-e1505250720336.jpg)
+}
+.themify_builder_6_row.module_row_0.module_row>.builder_row_cover {
+	background:linear-gradient( 0deg, rgb(0, 0, 0) 0%, rgb(255, 255, 255) 41% )
+}
+.themify_builder_6_row.module_row_0.module_row> div > .builder_row_cover {
+	background:linear-gradient( 0deg, rgb(0, 0, 0) 0%, rgb(255, 255, 255) 41% )
+}
+
+.themify_builder .text-6-0-0-0.module-text { font-size: 1.3em; line-height: 1.5em; margin-bottom: 3%;  } 

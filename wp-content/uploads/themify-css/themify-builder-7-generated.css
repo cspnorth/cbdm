@@ -1,0 +1,41 @@
+.themify_builder .box-7-0-0-0.module-box .module-box-content { background-repeat: fullcover;  } 
+/* .themify_builder_7_row.module_row_1 Style */
+.themify_builder_7_row.module_row_1.module_row {
+	background-image: url(http://localhost:8888/cbdm/wp-content/uploads/2017/09/cropped-636873.jpg);
+	font-family: Lobster;
+	font-size: 48;
+	text-align: center;
+	
+	color: rgba(24,67,46, 1.00)
+}
+.themify_builder_7_row.module_row_1.module_row h1 {
+	
+	color: rgba(24,67,46, 1.00);
+	font-family: Lobster
+}
+.themify_builder_7_row.module_row_1.module_row h2 {
+	
+	color: rgba(24,67,46, 1.00);
+	font-family: Lobster
+}
+.themify_builder_7_row.module_row_1.module_row h3:not(.module-title) {
+	
+	color: rgba(24,67,46, 1.00);
+	font-family: Lobster
+}
+.themify_builder_7_row.module_row_1.module_row h4 {
+	
+	color: rgba(24,67,46, 1.00);
+	font-family: Lobster
+}
+.themify_builder_7_row.module_row_1.module_row h5 {
+	
+	color: rgba(24,67,46, 1.00);
+	font-family: Lobster
+}
+.themify_builder_7_row.module_row_1.module_row h6 {
+	
+	color: rgba(24,67,46, 1.00);
+	font-family: Lobster
+}
+
